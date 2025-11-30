@@ -2,6 +2,7 @@
 # PYTHON PROJECT .gitignore
 # ----------------------------------------
 
+
 # Virtual environment directories
 venv/
 env/
