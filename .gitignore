@@ -1,0 +1,56 @@
+# ----------------------------------------
+# PYTHON PROJECT .gitignore
+# ----------------------------------------
+
+# Virtual environment directories
+venv/
+env/
+ENV/
+.venv/
+
+# Python cache / compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dll
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Logs
+*.log
+logs/
+*.out
+*.err
+
+# Environment and secrets
+*.env
+*.env.*
+*.ini
+*.cfg
+*.toml
+secrets.json
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*.bak
+*.orig
+
+# Coverage / testing
+.coverage
+htmlcov/
+.cache/
+pytest_cache/
+tox/
+
