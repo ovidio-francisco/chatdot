@@ -5,7 +5,7 @@ def main():
     llm = Ollama(
         model="llama3.2:1b",
         request_timeout=60.0,
-        context_window=1024,   # <= contexto menor = menos memória
+        context_window=1024,
         #  temperature=0.1,
         #  keep_alive=0,          # não manter modelo carregado depois da resposta
     )
