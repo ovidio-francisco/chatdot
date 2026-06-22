@@ -8,12 +8,12 @@ This repository works as an initial experiment with local LLMs, embeddings, and 
 
 ## Features
 
--[x] Run local language models with Ollama.
--[x] Integrate Python code with LlamaIndex.
--[x] Test simple prompts sent to local LLMs.
--[x] Load local documents from the `data/` folder.
--[x] Create a vector index from the loaded documents.
--[x] Query documents using natural language questions.
+- [x] Run local language models with Ollama.
+- [x] Integrate Python code with LlamaIndex.
+- [x] Test simple prompts sent to local LLMs.
+- [x] Load local documents from the `data/` folder.
+- [x] Create a vector index from the loaded documents.
+- [x] Query documents using natural language questions.
 
 ## Technologies used
 
