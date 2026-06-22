@@ -136,14 +136,14 @@ Make sure the Ollama service is running before executing the scripts.
 
 ## Possible future improvements
 
--[ ] Create a chat interface for querying documents.
--[ ] Allow model selection through command-line arguments or environment variables.
--[ ] Move configuration values to a `.env` file.
--[ ] Persist the vector index to avoid rebuilding it on every execution.
--[ ] Improve the organization of the scripts.
--[ ] Create a command-line interface.
--[ ] Add error handling.
--[ ] Update `requirements.txt` with all required dependencies.
--[ ] Document examples of questions and answers.
+- [ ] Create a chat interface for querying documents.
+- [ ] Allow model selection through command-line arguments or environment variables.
+- [ ] Move configuration values to a `.env` file.
+- [ ] Persist the vector index to avoid rebuilding it on every execution.
+- [ ] Improve the organization of the scripts.
+- [ ] Create a command-line interface.
+- [ ] Add error handling.
+- [ ] Update `requirements.txt` with all required dependencies.
+- [ ] Document examples of questions and answers.
 
 
